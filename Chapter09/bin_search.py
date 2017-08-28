@@ -8,7 +8,7 @@ def binary_search(ordered_list, term):
     index_of_last_element = size_of_list
 
     while index_of_first_element <= index_of_last_element:
-        mid_point = (index_of_first_element + index_of_last_element)/2
+        mid_point = (index_of_first_element + index_of_last_element) // 2
 
         if ordered_list[mid_point] == term:
             return mid_point
