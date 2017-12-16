@@ -25,6 +25,3 @@ The code in this book will require you to run Python 2.7.x or higher. Python's d
 * [Learning JavaScript Data Structures and Algorithms [Video]](https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-video?utm_source=github&utm_medium=repository&utm_campaign=9781782175698)
 
 * [Java 9 Data Structures and Algorithms](https://www.packtpub.com/application-development/java-9-data-structures-and-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781785889349)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
