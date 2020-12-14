@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/python-data-structures-and-algorithms/9781786467355)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786467356).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Python Data Structures and Algorithms
 This is the code repository for [Python Data Structures and Algorithms](https://www.packtpub.com/application-development/python-data-structures-and-algorithm?utm_source=github&utm_medium=repository&utm_campaign=9781786467355), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
