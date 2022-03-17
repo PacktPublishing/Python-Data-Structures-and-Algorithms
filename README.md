@@ -1,5 +1,5 @@
 
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786467356).     Potential readers can then use your unbiased opinion to help them make purchase decisions.
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786467356).     Potential readers can then use your unbiased opinion to help them make purchase decisions.*
 
 # Python Data Structures and Algorithms
 This is the code repository for [Python Data Structures and Algorithms](https://www.packtpub.com/application-development/python-data-structures-and-algorithm?utm_source=github&utm_medium=repository&utm_campaign=9781786467355), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
