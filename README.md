@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05630?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 
 *If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786467356).     Potential readers can then use your unbiased opinion to help them make purchase decisions.*
 
