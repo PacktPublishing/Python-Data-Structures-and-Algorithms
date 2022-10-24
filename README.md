@@ -28,3 +28,7 @@ The code in this book will require you to run Python 2.7.x or higher. Python's d
 * [Learning JavaScript Data Structures and Algorithms [Video]](https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-video?utm_source=github&utm_medium=repository&utm_campaign=9781782175698)
 
 * [Java 9 Data Structures and Algorithms](https://www.packtpub.com/application-development/java-9-data-structures-and-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781785889349)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786467355">https://packt.link/free-ebook/9781786467355 </a> </p>
