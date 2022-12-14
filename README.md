@@ -1,4 +1,16 @@
 
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781786467355)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
+
 *If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786467356).     Potential readers can then use your unbiased opinion to help them make purchase decisions.*
 
 # Python Data Structures and Algorithms
