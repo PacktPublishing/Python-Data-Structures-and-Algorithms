@@ -25,6 +25,12 @@ def dequeue(self):
 
 The code in this book will require you to run Python 2.7.x or higher. Python's default interactive environment can also be used to run the snippets of code. In order to use other third-party libraries, pip should be installed on your system.
 
+## Errata
+* Page 34: **https://www.packtpub.com/support** is broken **https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithma** _should be_ **https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms**
+* Page 36: "https://www.packtpub.com/books/content/support" is broken
+* Page 39: **object-ject-ented programming language** _should be_ **object-oriented programming language**
+
+
 ## Related Products
 * [Learning Functional Data Structures and Algorithms](https://www.packtpub.com/application-development/learning-functional-data-structures-and-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781785888731)
 
